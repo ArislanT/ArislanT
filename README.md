@@ -1,4 +1,4 @@
-## 🚀 Hey, I'm Arislan Telek 👋
+## 🚀 Hey,  I'm Arislan Telek 👋
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e66c6084-63dd-42ca-af0c-6349d66db347" alt="Toronto Skyline" width="100%" style="border-radius: 10px;">
