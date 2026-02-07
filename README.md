@@ -10,9 +10,7 @@
 
 ### 📬 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-arislanatelek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arislanatelek@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-atelek19-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atelek19)
-![Go Hoos!](https://img.shields.io/badge/Go_Hoos!-⚔️-orange?style=for-the-badge&labelColor=navy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atelek19) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arislanatelek@gmail.com) ![Go Hoos!](https://img.shields.io/badge/Go_Hoos!-⚔️-orange?style=for-the-badge&labelColor=navy)
 
 ## 💻 Languages
 <p align="left">
