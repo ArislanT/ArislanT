@@ -5,7 +5,7 @@
   <br/>
   <sub><i>Here's a photo I took of the Toronto skyline 📸</i></sub>
 </p>
-<br/>
+
 ### 🧑‍🍳 About me
 * 🎓 **Computer Science & Statistics** double major @ the **University of Virginia** 
 * 🥷 **Software Engineer @ theCourseForum**, focused on high-concurrency systems and distributed infrastructure
