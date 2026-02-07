@@ -1,15 +1,18 @@
-## Hey, I'm Arislan 👋
+## 🚀 Hey, I'm Arislan Telek 👋
 
-About me
-🔸🔹🔸 I'm a Computer Science and Statistics double major at the University of Vriginia
+### 🧑‍🍳 About me
 
-  📫   You can reach me at arislanatelek@gmail.com
+* 🎓 **Computer Science & Statistics** double major @ the **University of Virginia**
+* 🏗️ **Software Engineer @ theCourseForum**, focused on high-concurrency systems and distributed infrastructure
+* 🦅 **U.S. Citizen** based in Northern Virginia / DC Area
 
-  🏡   I'm based in Northern Virginia with flexibility to recolate within the United States
+---
 
-  🌎   Connect with me! www.linkedin.com/in/atelek19
+### 📬 Let's Connect!
 
-🔸🔹🔸 Go Hoos!
+[![Email](https://img.shields.io/badge/Email-arislanatelek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arislanatelek@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-atelek19-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atelek19)
+![Go Hoos!](https://img.shields.io/badge/Go_Hoos!-⚔️-orange?style=for-the-badge&labelColor=navy)
 
 ## 💻 Languages
 <p align="left">
@@ -18,6 +21,7 @@ About me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45"/>
 </p>
 
@@ -33,6 +37,9 @@ About me
 ## 🛠️ Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="lambda" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman_apis" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
