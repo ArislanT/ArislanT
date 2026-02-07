@@ -10,13 +10,9 @@
 ### 📬 Let's Connect!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/atelek19/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin" alt="LinkedIn" height="30">
-</a>
-&nbsp;
-<a href="mailto:arislanatelek@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=social&logo=gmail" alt="Gmail" height="30">
-</a>
+<a href="https://www.linkedin.com/in/atelek19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:arislanatelek@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<img align="center" src="https://img.shields.io/badge/Go_Hoos!-⚔️-orange?style=for-the-badge&labelColor=navy" height="30" />
 </p>
 
 ## 💻 Languages
