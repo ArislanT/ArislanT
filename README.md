@@ -1,5 +1,10 @@
 ## 🚀 Hey, I'm Arislan Telek 👋
 
+<p align="center">
+  <img src="![Image](https://github.com/user-attachments/assets/e66c6084-63dd-42ca-af0c-6349d66db347)" alt="Toronto Skyline" width="100%" style="border-radius: 10px;">
+</p>
+<br/>
+
 ### 🧑‍🍳 About me
 * 🎓 **Computer Science & Statistics** double major @ the **University of Virginia** 
 * 🥷 **Software Engineer @ theCourseForum**, focused on high-concurrency systems and distributed infrastructure
