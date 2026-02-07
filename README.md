@@ -1,4 +1,4 @@
-## 🚀 Hey, I'm Arislan Telek 👋 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Virginia_Cavaliers_voters_logo.svg/1200px-Virginia_Cavaliers_voters_logo.svg.png" alt="UVA Logo" width="50" align="right"/>
+## 🚀 Hey, I'm Arislan Telek 👋
 
 ### 🧑‍🍳 About me
 * 🎓 **Computer Science & Statistics** double major @ the **University of Virginia** 
