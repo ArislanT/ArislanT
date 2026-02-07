@@ -11,8 +11,12 @@
 ### 📬 Let's Connect!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/atelek19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atelek19" height="30" width="40" /></a>
-<a href="mailto:arislanatelek@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="arislanatelek" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/atelek19/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="fill: #0077B5;"/>
+  </a>
+  <a href="mailto:arislanatelek@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" height="30" width="40" style="fill: #D14836;"/>
+  </a>
 </p>
 
 ![Go Hoos!](https://img.shields.io/badge/Go_Hoos!-⚔️-orange?style=for-the-badge&labelColor=navy)
