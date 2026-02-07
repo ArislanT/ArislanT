@@ -2,21 +2,21 @@
 
 ### 🧑‍🍳 About me
 * 🎓 **Computer Science & Statistics** double major @ the **University of Virginia** 
-* 🏗️ **Software Engineer @ theCourseForum**, focused on high-concurrency systems and distributed infrastructure
-* 🦅 **U.S. Citizen** based in Northern Virginia / DC Area
+* 🥷 **Software Engineer @ theCourseForum**, focused on high-concurrency systems and distributed infrastructure
+* 🇺🇸 **U.S. Citizen** based in Northern Virginia / DC Area
 
 ---
 
 ### 📬 Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/atelek19/" target="_blank">
-    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="35" height="35" style="filter: invert(34%) sepia(98%) ads(3848%) hue-rotate(186deg) brightness(91%) contrast(101%);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:arislanatelek@gmail.com" target="_blank">
-    <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="35" height="35" style="filter: invert(35%) sepia(85%) saturate(2348%) hue-rotate(345deg) brightness(91%) contrast(93%);" />
-  </a>
+<a href="https://www.linkedin.com/in/atelek19/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin" alt="LinkedIn" height="30">
+</a>
+&nbsp;
+<a href="mailto:arislanatelek@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=social&logo=gmail" alt="Gmail" height="30">
+</a>
 </p>
 
 ## 💻 Languages
