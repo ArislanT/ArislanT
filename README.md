@@ -10,14 +10,12 @@
 
 ### 📬 Let's Connect!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/atelek19/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="fill: #0077B5;"/>
-  </a>
-  <a href="mailto:arislanatelek@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" height="30" width="40" style="fill: #D14836;"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/atelek19/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:arislanatelek@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 ![Go Hoos!](https://img.shields.io/badge/Go_Hoos!-⚔️-orange?style=for-the-badge&labelColor=navy)
 
