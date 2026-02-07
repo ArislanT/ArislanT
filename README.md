@@ -7,7 +7,7 @@ About me
 
   🏡   I'm based in Northern Virginia with flexibility to recolate within the United States
 
-  🌎   Take a look at my website https://sachaa.dev
+  🌎   Connect with me! www.linkedin.com/in/atelek19
 
 🔸🔹🔸 Go Hoos!
 
