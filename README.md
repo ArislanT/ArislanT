@@ -1,8 +1,8 @@
 ## 🚀 Hey, I'm Arislan Telek 👋
 
 ### 🧑‍🍳 About me
-
-* 🎓 **Computer Science & Statistics** double major @ the **University of Virginia** ![Go Hoos!](https://img.shields.io/badge/Go_Hoos!-⚔️-orange?style=for-the-badge&labelColor=navy)
+![Go Hoos!](https://img.shields.io/badge/Go_Hoos!-⚔️-orange?style=for-the-badge&labelColor=navy)
+* 🎓 **Computer Science & Statistics** double major @ the **University of Virginia** 
 * 🏗️ **Software Engineer @ theCourseForum**, focused on high-concurrency systems and distributed infrastructure
 * 🦅 **U.S. Citizen** based in Northern Virginia / DC Area
 
