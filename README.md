@@ -11,12 +11,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/atelek19/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align:middle;margin:0 10px 0 0;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 50px !important; width: auto; vertical-align:middle; margin-right: 20px;" />
   </a>
   <a href="mailto:arislanatelek@gmail.com" target="_blank">
-    <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="40" height="30" style="vertical-align:middle;filter: invert(35%) sepia(85%) saturate(2348%) hue-rotate(345deg) brightness(91%) contrast(93%);" />
+    <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" style="height: 50px !important; width: auto; vertical-align:middle; filter: invert(35%) sepia(85%) saturate(2348%) hue-rotate(345deg) brightness(91%) contrast(93%);" />
   </a>
-</p> 
+</p>
 
 ## 💻 Languages
 <p align="left">
