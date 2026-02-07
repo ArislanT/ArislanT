@@ -2,7 +2,7 @@
 
 ### 🧑‍🍳 About me
 
-* 🎓 **Computer Science & Statistics** double major @ the **University of Virginia**
+* 🎓 **Computer Science & Statistics** double major @ the **University of Virginia** ![Go Hoos!](https://img.shields.io/badge/Go_Hoos!-⚔️-orange?style=for-the-badge&labelColor=navy)
 * 🏗️ **Software Engineer @ theCourseForum**, focused on high-concurrency systems and distributed infrastructure
 * 🦅 **U.S. Citizen** based in Northern Virginia / DC Area
 
@@ -10,14 +10,15 @@
 
 ### 📬 Let's Connect!
 
-<a href="https://www.linkedin.com/in/atelek19/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:arislanatelek@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-![Go Hoos!](https://img.shields.io/badge/Go_Hoos!-⚔️-orange?style=for-the-badge&labelColor=navy)
+<p align="left">
+  <a href="https://www.linkedin.com/in/atelek19/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="35" height="35" style="filter: invert(34%) sepia(98%) ads(3848%) hue-rotate(186deg) brightness(91%) contrast(101%);" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:arislanatelek@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" width="35" height="35" style="filter: invert(35%) sepia(85%) saturate(2348%) hue-rotate(345deg) brightness(91%) contrast(93%);" />
+  </a>
+</p>
 
 ## 💻 Languages
 <p align="left">
