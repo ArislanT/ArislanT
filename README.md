@@ -55,15 +55,19 @@
 ### 😁 Beyond the Code
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Basketball" height="55" width="55" style="vertical-align:middle; margin-right: 20px; filter: invert(53%) sepia(89%) saturate(1834%) hue-rotate(351deg) brightness(101%) contrast(105%);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/basketball.svg" alt="Basketball" height="55" width="55" style="vertical-align:middle; margin-right: 20px; filter: invert(53%) sepia(89%) saturate(1834%) hue-rotate(351deg) brightness(101%) contrast(105%);" />
   
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/soccer.svg" alt="Soccer" height="40" width="40" style="vertical-align:middle; margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/soccer.svg" alt="Soccer" height="35" width="35" style="vertical-align:middle; margin-right: 15px;" />
   
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/americanfootball.svg" alt="Football" height="40" width="40" style="vertical-align:middle; margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/americanfootball.svg" alt="Football" height="35" width="35" style="vertical-align:middle; margin-right: 15px;" />
   
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/exercise.svg" alt="Weightlifting" height="40" width="40" style="vertical-align:middle; margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/exercise.svg" alt="Weightlifting" height="35" width="35" style="vertical-align:middle; margin-right: 15px;" />
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tripadvisor.svg" alt="Travel" height="40" width="40" style="vertical-align:middle; margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tree.svg" alt="Outdoors" height="35" width="35" style="vertical-align:middle; margin-right: 15px;" />
+
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/airport.svg" alt="Travel" height="35" width="35" style="vertical-align:middle; margin-right: 15px;" />
+
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/foodspread.svg" alt="Food" height="35" width="35" style="vertical-align:middle;" />
 </p>
 
 
