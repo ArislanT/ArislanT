@@ -55,17 +55,15 @@
 ### 😁 Beyond the Code
 
 <p align="left">
-  <img src="https://simpleicons.org/icons/basketball.svg" alt="Basketball" height="60" width="60" style="vertical-align:middle; margin-right: 20px; filter: invert(53%) sepia(89%) saturate(1834%) hue-rotate(351deg) brightness(101%) contrast(105%);" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Basketball" height="55" width="55" style="vertical-align:middle; margin-right: 20px; filter: invert(53%) sepia(89%) saturate(1834%) hue-rotate(351deg) brightness(101%) contrast(105%);" />
   
-  <img src="https://simpleicons.org/icons/soccer.svg" alt="Soccer" height="40" width="40" style="vertical-align:middle; margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/soccer.svg" alt="Soccer" height="40" width="40" style="vertical-align:middle; margin-right: 15px;" />
   
-  <img src="https://simpleicons.org/icons/americanfootball.svg" alt="Football" height="40" width="40" style="vertical-align:middle; margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/americanfootball.svg" alt="Football" height="40" width="40" style="vertical-align:middle; margin-right: 15px;" />
   
-  <img src="https://simpleicons.org/icons/dumbbell.svg" alt="Weightlifting" height="40" width="40" style="vertical-align:middle; margin-right: 15px;" />
-  
-  <img src="https://simpleicons.org/icons/airport.svg" alt="Travel" height="40" width="40" style="vertical-align:middle; margin-right: 15px;" />
-  
-  <img src="https://simpleicons.org/icons/tree.svg" alt="Outdoors" height="40" width="40" style="vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/exercise.svg" alt="Weightlifting" height="40" width="40" style="vertical-align:middle; margin-right: 15px;" />
+
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tripadvisor.svg" alt="Travel" height="40" width="40" style="vertical-align:middle; margin-right: 15px;" />
 </p>
 
 
