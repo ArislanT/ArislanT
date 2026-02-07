@@ -11,11 +11,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/atelek19/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="35" height="35" style="filter: invert(34%) sepia(98%) ads(3848%) hue-rotate(186deg) brightness(91%) contrast(101%);" />
+    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="35" height="35" style="filter: invert(34%) sepia(98%) ads(3848%) hue-rotate(186deg) brightness(91%) contrast(101%);" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:arislanatelek@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" width="35" height="35" style="filter: invert(35%) sepia(85%) saturate(2348%) hue-rotate(345deg) brightness(91%) contrast(93%);" />
+    <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="35" height="35" style="filter: invert(35%) sepia(85%) saturate(2348%) hue-rotate(345deg) brightness(91%) contrast(93%);" />
   </a>
 </p>
 
