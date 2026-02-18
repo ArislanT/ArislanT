@@ -7,7 +7,7 @@
 </p>
 
 ### 🧑‍🍳 About me
-* 🎓 **Computer Science & Statistics** double major @ the **University of Virginia**
+* 🎓 **Computer Science & Applied Statistics** double major @ the **University of Virginia**
   
 * 🥷 **Software Engineer @ theCourseForum**, focused on high-concurrency systems and distributed infrastructure
   
