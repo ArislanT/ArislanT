@@ -7,6 +7,8 @@
 </p>
 
 ### 🧑‍🍳 About me
+* 🎓 Incoming**Software Engineer Intern**@**Parsons**, ParsonsGPT Team
+
 * 🎓 **Computer Science & Applied Statistics** double major @ the **University of Virginia**
   
 * 🥷 **Software Engineer @ theCourseForum**, focused on high-concurrency systems and distributed infrastructure
