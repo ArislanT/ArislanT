@@ -7,7 +7,7 @@
 </p>
 
 ### 🧑‍🍳 About me
-* 🎓 Incoming**Software Engineer Intern**@**Parsons**, ParsonsGPT Team
+* 🎓 Incoming **Software Engineer Intern** @ **Parsons**, ParsonsGPT Team
 
 * 🎓 **Computer Science & Applied Statistics** double major @ the **University of Virginia**
   
