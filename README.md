@@ -17,14 +17,10 @@
 
 ### 📬 Let's Connect!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/atelek19/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" style="vertical-align:middle; margin-right: 20px;" />
-  </a>
-  <a href="mailto:arislanatelek@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50" style="vertical-align:middle;" />
-  </a>
-</p>
+<table><tr>
+  <td><a href="https://www.linkedin.com/in/atelek19/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50"/></a></td>
+  <td><a href="mailto:arislanatelek@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50"/></a></td>
+</tr></table>
 
 ## 💻 Languages
 <table><tr>
