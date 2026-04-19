@@ -57,8 +57,6 @@
 
 ### 😁 Beyond the Code
 
-### 😁 Beyond the Code
-
 <table><tr>
   <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c0/512.png" alt="🏀" width="45" height="45"/></td>
   <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26bd/512.png" alt="⚽" width="45" height="45"/></td>
