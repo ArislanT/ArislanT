@@ -57,20 +57,16 @@
 
 ### 😁 Beyond the Code
 
-<p align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c0/512.png" alt="🏀" width="45" height="45" style="vertical-align:middle; margin-left: 12px; margin-right: 25px;">
+### 😁 Beyond the Code
 
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26bd/512.png" alt="⚽" width="45" height="45" style="vertical-align:middle; margin-right: 20px;">
-
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c8/512.png" alt="🏈" width="45" height="45" style="vertical-align:middle; margin-right: 20px;">
-
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3cb_fe0f/512.png" alt="🏋️" width="45" height="45" style="vertical-align:middle; margin-right: 20px;">
-
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f332/512.png" alt="🌲" width="45" height="45" style="vertical-align:middle; margin-right: 20px;">
-
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2708_fe0f/512.png" alt="✈️" width="45" height="45" style="vertical-align:middle; margin-right: 20px;">
-
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d_fe0f/512.png" alt="🍽️" width="45" height="45" style="vertical-align:middle;">
-</p>
+<table><tr>
+  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c0/512.png" alt="🏀" width="45" height="45"/></td>
+  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26bd/512.png" alt="⚽" width="45" height="45"/></td>
+  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c8/512.png" alt="🏈" width="45" height="45"/></td>
+  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3cb_fe0f/512.png" alt="🏋️" width="45" height="45"/></td>
+  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f332/512.png" alt="🌲" width="45" height="45"/></td>
+  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2708_fe0f/512.png" alt="✈️" width="45" height="45"/></td>
+  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d_fe0f/512.png" alt="🍽️" width="45" height="45"/></td>
+</tr></table>
 
 
