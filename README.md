@@ -14,7 +14,7 @@
   * **Presentation Generation Engine:** Engineered an automated tool that dynamically produces fully editable slide decks, solving a major pain point for employees building fast-turnaround proposals and client meetings.
   *For context, there was no previous method to compile editable slides, and the non-editable images generated for slides took around 21 minutes.* 
   
-  Here's a image of a demo for proof!
+  Here's a image of a demo for proof! (Unable to show specifics due to confidentiality)
   <table align="center">
     <tr>
       <td align="center" valign="top">
