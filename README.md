@@ -2,9 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e66c6084-63dd-42ca-af0c-6349d66db347" alt="Toronto Skyline" width="100%" style="border-radius: 10px;">
-  <br/><img width="827" height="922" alt="Screenshot 2026-09-29 at 12 37 31 PM" src="https://github.com/user-attachments/assets/7aea2b91-2a19-4366-aa05-14c3da1b5839" />
-
-
+  <br/>
   <sub><i>Here's a photo I took of the Toronto skyline 📸</i></sub>
 </p>
 
@@ -15,16 +13,18 @@
   * **Workflow Automation (MCP):** Integrated a Model Context Protocol (MCP) client and server, enabling users to generate complex AI personas and workflows via natural language instructions, reducing configuration time by 63%.
   * **Presentation Generation Engine:** Engineered an automated tool that dynamically produces fully editable slide decks, solving a major pain point for employees building fast-turnaround proposals and client meetings.
   *For context, there was no previous method to compile editable slides, and the non-editable images generated for slides took around 21 minutes.* 
+  
   Here's a image of a demo for proof!
-  <table width="100%">
+
+  <table align="center">
     <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github.com/user-attachments/assets/7b273a27-b44a-4c1f-951a-f0f5a692008e" alt="Previous manual process of generating static image slides" style="border-radius: 10px; width: 100%;">
+      <td align="center" valign="top">
+        <img src="https://github.com/user-attachments/assets/7b273a27-b44a-4c1f-951a-f0f5a692008e" alt="Previous manual process of generating static image slides" height="220" style="border-radius: 10px;">
         <br/>
         <sub><i><b>The old workflow:</b> Waiting on non-editable image outputs (taking ~21 minutes before even piecing the deck together).</i></sub>
       </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github.com/user-attachments/assets/997998eb-69c7-4d19-87ca-e3a862e660c9" alt="Generated presentation slide displaying Key Takeaways and Strategic Lessons" style="border-radius: 10px; width: 100%;">
+      <td align="center" valign="top">
+        <img src="https://github.com/user-attachments/assets/997998eb-69c7-4d19-87ca-e3a862e660c9" alt="Generated presentation slide displaying Key Takeaways and Strategic Lessons" height="220" style="border-radius: 10px;">
         <br/>
         <sub><i><b>The new tool:</b> Fully editable, dynamically formatted slide decks (even 50 slides) generated in just 2-3 minutes, strictly conforming to user context and configurations.</i></sub>
       </td>
@@ -97,20 +97,20 @@
   <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d_fe0f/512.png" alt="🍽️" width="45" height="45"/></td>
 </tr></table>
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/18bc5c81-87f5-40c4-aceb-4f7e12f95fe0" alt="Playing soccer in an orange jersey" style="border-radius: 10px; width: 100%;">
+    <td align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/18bc5c81-87f5-40c4-aceb-4f7e12f95fe0" alt="Playing soccer in an orange jersey" height="220" style="border-radius: 10px;">
       <br/>
       <sub><i>On the pitch ⚽</i></sub>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/073cb503-5ab6-4c01-b03b-45e94f344cad" alt="Selfie at sunset overlooking a valley" style="border-radius: 10px; width: 100%;">
+    <td align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/61cd7ec5-9da8-46f1-8cbd-fa9fac16218f" alt="Selfie at sunset overlooking a valley" height="220" style="border-radius: 10px;">
       <br/>
-      <sub><i>One with Nature🌲</i></sub>
+      <sub><i>One with Nature 🌲</i></sub>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/61cd7ec5-9da8-46f1-8cbd-fa9fac16218f" alt="Enjoying a meal at a restaurant" style="border-radius: 10px; width: 100%;">
+    <td align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/073cb503-5ab6-4c01-b03b-45e94f344cad" alt="Enjoying a meal at a restaurant" height="220" style="border-radius: 10px;">
       <br/>
       <sub><i>Always with good eats 🍽️</i></sub>
     </td>
