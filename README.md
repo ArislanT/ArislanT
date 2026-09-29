@@ -15,13 +15,20 @@
   *For context, there was no previous method to compile editable slides, and the non-editable images generated for slides took around 21 minutes.* 
   
   Here's a image of a demo for proof!
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/7b273a27-b44a-4c1f-951a-f0f5a692008e" alt="Previous manual process" height="220" style="border-radius: 10px;">
-    &nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/997998eb-69c7-4d19-87ca-e3a862e660c9" alt="Generated presentation slide" height="220" style="border-radius: 10px;">
-    <br/><br/>
-    <sub><i><b>The old workflow:</b> ~21 mins for static images &nbsp;&nbsp;&nbsp;➔&nbsp;&nbsp;&nbsp; <b>The new tool:</b> 2-3 mins for fully editable decks</i></sub>
-  </p>
+  <table align="center">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github.com/user-attachments/assets/7b273a27-b44a-4c1f-951a-f0f5a692008e" alt="Previous manual process of generating static image slides" height="220" style="border-radius: 10px;">
+        <br/>
+        <sub><i><b>The old workflow:</b> Waiting on non-editable image outputs (taking ~21 minutes before even piecing the deck together).</i></sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github.com/user-attachments/assets/997998eb-69c7-4d19-87ca-e3a862e660c9" alt="Generated presentation slide displaying Key Takeaways and Strategic Lessons" height="220" style="border-radius: 10px;">
+        <br/>
+        <sub><i><b>The new tool:</b> Fully editable, dynamically formatted slide decks (even 50 slides) generated in just 2-3 minutes, strictly conforming to user context and configurations.</i></sub>
+      </td>
+    </tr>
+  </table>
   
   
 * 🎓 **Computer Science & Statistics** double major @ the **University of Virginia**
