@@ -35,7 +35,7 @@
   - Relevant Coursework: Data Structures and Algorithms I & II, Discrete Math and Theory I, Computer Systems and Organization I, Foundations of Statistics (Linear Algebra, Probability)
   
 * 🥷 **Software Engineer @ theCourseForum**, focused on high-concurrency systems and distributed infrastructure. Currently, redesigning the site to a serverless SvelteKit, Drizzle, SST architecture
-  - Features Built: Trending Analytics
+  - Features Built: Trending Analytics, Site Redesign
 
 * 🇺🇸 **U.S. Citizen** based in Northern Virginia / DC Area / NYC Area
   - Willing to relocate
@@ -44,11 +44,12 @@
 
 ### 📬 Let's Connect!
 
-<table><tr>
-  <td><a href="https://www.linkedin.com/in/atelek19/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50"/></a></td>
-  <td><a href="mailto:arislanatelek@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50"/></a></td>
-  <td><a href="https://beliapp.co/app/arislan" target="_blank"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/01/cc/4a01cc56-2e88-02ea-8228-4ce67f960f27/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" alt="Beli" height="50" width="50" style="border-radius: 12px;"/></a></td>
-</tr></table>
+<p>
+  <a href="https://www.linkedin.com/in/atelek19/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50"/></a> &nbsp;
+  <a href="mailto:arislanatelek@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50"/></a> &nbsp;
+  <a href="https://beliapp.co/app/arislan" target="_blank"><img src="https://github.com/user-attachments/assets/debc9225-62ff-4e39-b484-fc2d620f45ff" alt="Beli" height="50" width="50" style="border-radius: 12px;"/></a>
+</p>
+
 
 ## 💻 Languages
 <table><tr>
