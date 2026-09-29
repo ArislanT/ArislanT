@@ -52,51 +52,52 @@
 
 
 ## 💻 Languages
-<table><tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45"/></td>
-</tr></table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45"/>
+</p>
 
 ## 📚 Frameworks & Libraries
-<table><tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/></td>
-</tr></table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="45" height="45" style="border-radius: 5px;" alt="Drizzle ORM"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+</p>
 
 ## 🛠️ Tools
-<table><tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" width="45" height="45"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/></td>
-</tr></table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/74640532?s=200&v=4" width="45" height="45" style="border-radius: 5px;" alt="SST"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+</p>
 
 ### 😁 Beyond the Code
-
-<table><tr>
-  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c0/512.png" alt="🏀" width="45" height="45"/></td>
-  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26bd/512.png" alt="⚽" width="45" height="45"/></td>
-  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c8/512.png" alt="🏈" width="45" height="45"/></td>
-  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3cb_fe0f/512.png" alt="🏋️" width="45" height="45"/></td>
-  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f332/512.png" alt="🌲" width="45" height="45"/></td>
-  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2708_fe0f/512.png" alt="✈️" width="45" height="45"/></td>
-  <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d_fe0f/512.png" alt="🍽️" width="45" height="45"/></td>
-</tr></table>
+<p>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c0/512.png" alt="🏀" width="45" height="45"/> &nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26bd/512.png" alt="⚽" width="45" height="45"/> &nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c8/512.png" alt="🏈" width="45" height="45"/> &nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3cb_fe0f/512.png" alt="🏋️" width="45" height="45"/> &nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f332/512.png" alt="🌲" width="45" height="45"/> &nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2708_fe0f/512.png" alt="✈️" width="45" height="45"/> &nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d_fe0f/512.png" alt="🍽️" width="45" height="45"/>
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/18bc5c81-87f5-40c4-aceb-4f7e12f95fe0" alt="Playing soccer in an orange jersey" height="220" style="border-radius: 10px;">
