@@ -15,21 +15,14 @@
   *For context, there was no previous method to compile editable slides, and the non-editable images generated for slides took around 21 minutes.* 
   
   Here's a image of a demo for proof!
-
-  <table align="center">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github.com/user-attachments/assets/7b273a27-b44a-4c1f-951a-f0f5a692008e" alt="Previous manual process of generating static image slides" height="220" style="border-radius: 10px;">
-        <br/>
-        <sub><i><b>The old workflow:</b> Waiting on non-editable image outputs (taking ~21 minutes before even piecing the deck together).</i></sub>
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github.com/user-attachments/assets/997998eb-69c7-4d19-87ca-e3a862e660c9" alt="Generated presentation slide displaying Key Takeaways and Strategic Lessons" height="220" style="border-radius: 10px;">
-        <br/>
-        <sub><i><b>The new tool:</b> Fully editable, dynamically formatted slide decks (even 50 slides) generated in just 2-3 minutes, strictly conforming to user context and configurations.</i></sub>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/7b273a27-b44a-4c1f-951a-f0f5a692008e" alt="Previous manual process" height="220" style="border-radius: 10px;">
+    &nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/997998eb-69c7-4d19-87ca-e3a862e660c9" alt="Generated presentation slide" height="220" style="border-radius: 10px;">
+    <br/><br/>
+    <sub><i><b>The old workflow:</b> ~21 mins for static images &nbsp;&nbsp;&nbsp;➔&nbsp;&nbsp;&nbsp; <b>The new tool:</b> 2-3 mins for fully editable decks</i></sub>
+  </p>
+  
   
 * 🎓 **Computer Science & Statistics** double major @ the **University of Virginia**
   - Relevant Coursework: Data Structures and Algorithms I & II, Discrete Math and Theory I, Computer Systems and Organization I, Foundations of Statistics (Linear Algebra, Probability)
@@ -97,25 +90,15 @@
   <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d_fe0f/512.png" alt="🍽️" width="45" height="45"/></td>
 </tr></table>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/18bc5c81-87f5-40c4-aceb-4f7e12f95fe0" alt="Playing soccer in an orange jersey" height="220" style="border-radius: 10px;">
-      <br/>
-      <sub><i>On the pitch ⚽</i></sub>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/61cd7ec5-9da8-46f1-8cbd-fa9fac16218f" alt="Selfie at sunset overlooking a valley" height="220" style="border-radius: 10px;">
-      <br/>
-      <sub><i>One with Nature 🌲</i></sub>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/073cb503-5ab6-4c01-b03b-45e94f344cad" alt="Enjoying a meal at a restaurant" height="220" style="border-radius: 10px;">
-      <br/>
-      <sub><i>Always with good eats 🍽️</i></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18bc5c81-87f5-40c4-aceb-4f7e12f95fe0" alt="Playing soccer in an orange jersey" height="220" style="border-radius: 10px;">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/61cd7ec5-9da8-46f1-8cbd-fa9fac16218f" alt="Selfie at sunset overlooking a valley" height="220" style="border-radius: 10px;">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/073cb503-5ab6-4c01-b03b-45e94f344cad" alt="Enjoying a meal at a restaurant" height="220" style="border-radius: 10px;">
+  <br/><br/>
+  <sub><i>On the pitch ⚽ &nbsp;&nbsp;•&nbsp;&nbsp; One with Nature 🌲 &nbsp;&nbsp;•&nbsp;&nbsp; Always with good eats 🍽️</i></sub>
+</p>
 
 
 
