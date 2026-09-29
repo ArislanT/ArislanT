@@ -2,18 +2,43 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e66c6084-63dd-42ca-af0c-6349d66db347" alt="Toronto Skyline" width="100%" style="border-radius: 10px;">
-  <br/>
+  <br/><img width="827" height="922" alt="Screenshot 2026-09-29 at 12 37 31 PM" src="https://github.com/user-attachments/assets/7aea2b91-2a19-4366-aa05-14c3da1b5839" />
+
+
   <sub><i>Here's a photo I took of the Toronto skyline 📸</i></sub>
 </p>
 
 ### 🧑‍🍳 About me
-* 🧳 **Software Engineer Intern** @ **Parsons**, ParsonsGPT Team
-
+* 🧳 Currently a Fall 2026 **Software Engineer Intern** @ **Parsons**; Prev Summer 2026 **Software Engineer Intern** @ **Parsons** (ParsonsGPT Team)
+  * Currently designing and deploying automated solutions to streamline workflows and expand AI adoption across teams
+  * **Enterprise AI Infrastructure:** Built core features for ParsonsGPT, a secure, private AI platform serving 20,000+ employees and enterprise customers (currently supporting major initiatives like the $85M U.S. Space Command Headquarters contract).
+  * **Workflow Automation (MCP):** Integrated a Model Context Protocol (MCP) client and server, enabling users to generate complex AI personas and workflows via natural language instructions, reducing configuration time by 63%.
+  * **Presentation Generation Engine:** Engineered an automated tool that dynamically produces fully editable slide decks, solving a major pain point for employees building fast-turnaround proposals and client meetings.
+  *For context, there was no previous method to compile editable slides, and the non-editable images generated for slides took around 21 minutes.* 
+  Here's a image of a demo for proof!
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github.com/user-attachments/assets/7b273a27-b44a-4c1f-951a-f0f5a692008e" alt="Previous manual process of generating static image slides" style="border-radius: 10px; width: 100%;">
+        <br/>
+        <sub><i><b>The old workflow:</b> Waiting on non-editable image outputs (taking ~21 minutes before even piecing the deck together).</i></sub>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github.com/user-attachments/assets/997998eb-69c7-4d19-87ca-e3a862e660c9" alt="Generated presentation slide displaying Key Takeaways and Strategic Lessons" style="border-radius: 10px; width: 100%;">
+        <br/>
+        <sub><i><b>The new tool:</b> Fully editable, dynamically formatted slide decks (even 50 slides) generated in just 2-3 minutes, strictly conforming to user context and configurations.</i></sub>
+      </td>
+    </tr>
+  </table>
+  
 * 🎓 **Computer Science & Statistics** double major @ the **University of Virginia**
+  - Relevant Coursework: Data Structures and Algorithms I & II, Discrete Math and Theory I, Computer Systems and Organization I, Foundations of Statistics (Linear Algebra, Probability)
   
-* 🥷 **Software Engineer @ theCourseForum**, focused on high-concurrency systems and distributed infrastructure
-  
-* 🇺🇸 **U.S. Citizen** based in Northern Virginia / DC Area
+* 🥷 **Software Engineer @ theCourseForum**, focused on high-concurrency systems and distributed infrastructure. Currently, redesigning the site to a serverless SvelteKit, Drizzle, SST architecture
+  - Features Built: Trending Analytics
+
+* 🇺🇸 **U.S. Citizen** based in Northern Virginia / DC Area / NYC Area
+  - Willing to relocate
 
 ---
 
@@ -22,6 +47,7 @@
 <table><tr>
   <td><a href="https://www.linkedin.com/in/atelek19/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50"/></a></td>
   <td><a href="mailto:arislanatelek@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50"/></a></td>
+  <td><a href="https://beliapp.co/app/arislan" target="_blank"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/01/cc/4a01cc56-2e88-02ea-8228-4ce67f960f27/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" alt="Beli" height="50" width="50" style="border-radius: 12px;"/></a></td>
 </tr></table>
 
 ## 💻 Languages
@@ -39,6 +65,7 @@
 <table><tr>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45" height="45"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/></td>
@@ -50,6 +77,7 @@
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" width="45" height="45"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="45" height="45"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/></td>
@@ -68,5 +96,26 @@
   <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2708_fe0f/512.png" alt="✈️" width="45" height="45"/></td>
   <td><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37d_fe0f/512.png" alt="🍽️" width="45" height="45"/></td>
 </tr></table>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/18bc5c81-87f5-40c4-aceb-4f7e12f95fe0" alt="Playing soccer in an orange jersey" style="border-radius: 10px; width: 100%;">
+      <br/>
+      <sub><i>On the pitch ⚽</i></sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/073cb503-5ab6-4c01-b03b-45e94f344cad" alt="Selfie at sunset overlooking a valley" style="border-radius: 10px; width: 100%;">
+      <br/>
+      <sub><i>One with Nature🌲</i></sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/61cd7ec5-9da8-46f1-8cbd-fa9fac16218f" alt="Enjoying a meal at a restaurant" style="border-radius: 10px; width: 100%;">
+      <br/>
+      <sub><i>Always with good eats 🍽️</i></sub>
+    </td>
+  </tr>
+</table>
+
 
 
