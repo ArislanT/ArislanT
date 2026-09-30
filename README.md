@@ -102,12 +102,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/18bc5c81-87f5-40c4-aceb-4f7e12f95fe0" alt="Playing soccer in an orange jersey" height="220" style="border-radius: 10px;">
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/61cd7ec5-9da8-46f1-8cbd-fa9fac16218f" alt="Selfie at sunset overlooking a valley" height="220" style="border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/8ddbfa85-1994-4f10-8188-504d20e6c5ba" alt="Screenshot 2026-09-30" height="220" style="border-radius: 10px;">
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/073cb503-5ab6-4c01-b03b-45e94f344cad" alt="Enjoying a meal at a restaurant" height="220" style="border-radius: 10px;">
   <br/><br/>
   <sub><i>On the pitch ⚽ &nbsp;&nbsp;•&nbsp;&nbsp; One with Nature 🌲 &nbsp;&nbsp;•&nbsp;&nbsp; Always with good eats 🍽️</i></sub>
 </p>
-
-
 
